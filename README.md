@@ -1,13 +1,4 @@
 
-## Screenshots
-
-- **Home Page:**  
-  ![Home Page](src/images/main_page.png)
-
-- **Section Example:**  
-  ![Section Example](src/images/sections.png)
-
-
 # Cognizant Communication Round Assessment Clone
 
 This project is a React + TypeScript web application that simulates the Cognizant Communication Round Assessment. It features four sections (Reading, Speaking, Grammar, Listening) with timers, progress tracking, and audio recording capabilities.
@@ -22,12 +13,14 @@ This project is a React + TypeScript web application that simulates the Cognizan
 - **Progress Bar:** Visual progress tracking across all sections.
 - **Responsive UI:** Built with Tailwind CSS for a modern, responsive design.
 
+
 ## Screenshots
 
-| Home Page |
-| ![Home](C:src\Images\main_page.png) | 
-![Progress](src\Images\Sections.png) |
+- **Home Page:**  
+  ![Home Page](src/images/main_page.png)
 
+- **Section Example:**  
+  ![Section Example](src/images/sections.png)
 
 ### Prerequisites
 
@@ -92,5 +85,6 @@ yarn lint
 - This project is for educational/demo purposes and does not submit or store any user data.
 
 ## License
+
 
 

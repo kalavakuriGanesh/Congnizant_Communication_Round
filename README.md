@@ -14,13 +14,10 @@ This project is a React + TypeScript web application that simulates the Cognizan
 
 ## Screenshots
 
-| Home Page | Section Example
-|-----------|----------------|--------------|
-| ![Home](C:src\Images\main_page.png) | ![Progress](src\Images\Sections.png) |
+| Home Page |
+| ![Home](C:src\Images\main_page.png) | 
+![Progress](src\Images\Sections.png) |
 
-> Place your screenshots in the `src/images` directory with the filenames shown above.
-
-## Getting Started
 
 ### Prerequisites
 
@@ -85,4 +82,5 @@ yarn lint
 - This project is for educational/demo purposes and does not submit or store any user data.
 
 ## License
+
 

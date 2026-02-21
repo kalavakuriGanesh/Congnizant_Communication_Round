@@ -1,5 +1,7 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "cognizant-communication-round",
+  "description": "Cognizant Communication Round Assessment Clone - A React TypeScript web app simulating the Cognizant Communication Assessment with reading, speaking, grammar, and listening sections",
+  "keywords": ["cognizant", "assessment", "communication-round", "react", "typescript", "audio-recording", "language-learning"],
   "private": true,
   "version": "0.0.0",
   "type": "module",
